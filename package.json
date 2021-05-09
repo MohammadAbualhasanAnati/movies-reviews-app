@@ -1,0 +1,22 @@
+{
+  "name": "movies-reviews-app",
+  "version": "1.0.0",
+  "description": "NodeJS Workshop Project - DSC Cairo University 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammadAnati-abuAlHasan/movies-reviews-app.git"
+  },
+  "author": "Mohammad Anati (abualhasan)",
+  "license": "GPL3",
+  "bugs": {
+    "url": "https://github.com/MohammadAnati-abuAlHasan/movies-reviews-app/issues"
+  },
+  "homepage": "https://github.com/MohammadAnati-abuAlHasan/movies-reviews-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
