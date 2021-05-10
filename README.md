@@ -1,6 +1,7 @@
 # movies-reviews-app
 NodeJS Workshop Project - DSC Cairo University
 <br />
+<br />
 The app allows the user to:<br />
     - Signup & Login<br />
     - Add, Update, Delete and View List of Movies<br />
